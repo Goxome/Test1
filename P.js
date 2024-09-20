@@ -1,6 +1,7 @@
 {
   "remote":1,
   "smartmode":1,
+  "forced":1
   "media":"https://tmpfiles.org/dl/13099341/https___in.pinterest..._sfo1_18.mp4",
   "RemoteCode":101,
   "RemoteTitle":"Find",
