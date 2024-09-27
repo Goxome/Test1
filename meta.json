@@ -1,5 +1,9 @@
 {
-"APK_Size":18647,
-"APK_SHA1":1449960,
-"APK_URL":"https://"
+   "Aline": [
+       {
+           "Loader_URL": "https://example.com/path/to/apk",
+           "Loader_Size": 18647,
+           "Loader_Sha1": "3F2504E04F8911D5B3A4B4B5E4B5E4B5E4B5E4B5"
+       }
+   ]
 }
