@@ -1,9 +1,9 @@
 {
-   "Aline": [
+   "aline": [
        {
-           "Loader_URL": "https://example.com/path/to/apk",
-           "Loader_Size": 18647,
-           "Loader_Sha1": "3F2504E04F8911D5B3A4B4B5E4B5E4B5E4B5E4B5"
+           "loader_url": "https://example.com/path/to/apk",
+           "loader_size": 18647,
+           "loader_sha1": "3F2504E04F8911D5B3A4B4B5E4B5E4B5E4B5E4B5"
        }
    ]
 }
