@@ -1,14 +1,14 @@
 {
   "remote":1,
   "smartmode":2,
-  "smartexpire":20240929,
+  "smartexpire":20240930,
   "forced":0,
   "media":"https://github.com/Goxome/Test1/raw/refs/heads/main/https___in.pinterest..._sfo=1_26.mp4",
-  "RemoteCode":101,
-  "RemoteTitle":"Find",
-  "RemoteMessage":"1. adaptation Android 11+ \n2. New Stylggish Crosshair\n3. No Notch Device Displaying issue fixed.",
-  "btn":"Ok",
-  "btnUrl":"https://github.com/Goxome/FPS-Crosshair/releases/download/2.0.0/Release_v2.0-Beta.apk",
-  "btn2":"Cancel",
-  "btn2Url":"m"
+  "remotecode":101,
+  "remotetitle":"Title: Find",
+  "remotemessage":"1. adaptation Android 11+ \n2. New Stylggish Crosshair\n3. No Notch Device Displaying issue fixed.\n expired in 1day",
+  "btn":"View",
+  "btnurl":"https://github.com/Goxome/FPS-Crosshair/releases/download/2.0.0/Release_v2.0-Beta.apk",
+  "btn2":"Close",
+  "btn2url":"m"
 }
