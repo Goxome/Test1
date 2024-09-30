@@ -1,8 +1,8 @@
 {
-  "remote":1,
-  "smartmode":2,
+  "remote":1, // Modes: 0/1
+  "smartmode":2, // Modes: 1=onetime : 2=expire
   "smartexpire":20241002,
-  "forced":0,
+  "forced":0, // Modes: 0,1,2
   "media":"https://github.com/Goxome/Test1/raw/refs/heads/main/https___in.pinterest..._sfo=1_26.mp4",
   "remotecode":101,
   "remotetitle":"Title: Find",
