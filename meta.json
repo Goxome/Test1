@@ -1,9 +1,11 @@
 {
    "aline": [
        {
-           "loader_url": "https://github.com/Goxome/Test1/raw/refs/heads/main/p.apk",
-           "loader_size": 1102221,
-           "loader_sha1": "3F2504E04F8911D5B3A4B4B5E4B5ECB5E4B5E4B5"
+           "loader_url": "https://github.com/goxome/aline-updater/raw/refs/heads/main/api/aline.apk",
+           "loader_size": 1266060,
+           "loader_sha1": "",
+           "loader_class": "com.goxome.aline.loader",
+           "loader_method": "run"
        }
    ]
 }
